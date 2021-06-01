@@ -8,5 +8,5 @@ Features of the script:
  Currently working on:
   - Fixing the bug in the analyze function
   - Deploying the project on Google Cloud
-  - Adding a function that can direct where the light is coming from on a close-up of a face (calculation the coordinates of the brightest and darkest pixels, and drawing a vector between them)
+  - Adding a function that can direct where the light is coming from on a close-up of a face (calculating the coordinates of the brightest and darkest pixels, and drawing a vector between them)
   
